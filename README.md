@@ -42,9 +42,9 @@ sudo ./uninstall.sh
 
 ## Screenshots
 
-<img src="https://github.com/mython-dev/Root-Dos/blob/main/screenshots/script.png" width=468 height=300>
+<img src="https://github.com/mython-dev/Root-Dos/blob/main/screenshots/script.png" width=468 height=350>
 
-<img src="https://github.com/mython-dev/Root-Dos/blob/main/screenshots/proof.png" width=468 height=300>
+<img src="https://github.com/mython-dev/Root-Dos/blob/main/screenshots/proof.png" width=468 height=380>
 
 ## Tested On ✅
 
